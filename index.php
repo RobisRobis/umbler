@@ -7,10 +7,12 @@
     <title>Teste de Auto Deploy</title>
 </head>
 <body>
-    <h1>CHUCK VAI TOMAR NO CU</h1>
-<?php 
-    phpinfo();
-?>
+    <div class="title center">
+        <h1>Blaack Hawk</h1>
+    </div>
+    <div class="hawkIcon center">
+        <img class="hawkIcon" rc="img/hawk.png" alt="hawkImage">
+    </div>
 </body>
 </html>
 

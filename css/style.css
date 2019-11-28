@@ -1,0 +1,21 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title{
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+.hawkIcon{
+    width: 250px;
+    height: 250px;
+}
