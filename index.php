@@ -11,7 +11,7 @@
         <h1>Blaack Hawk</h1>
     </div>
     <div class="hawkIcon center">
-        <img class="hawkIcon" rc="img/hawk.png" alt="hawkImage">
+        <img class="hawkIcon" src="img/hawk.png" alt="hawkImage">
     </div>
 </body>
 </html>
